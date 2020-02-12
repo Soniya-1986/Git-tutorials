@@ -1,0 +1,24 @@
+.header
+{
+    background-color: #333;
+}
+.container
+{
+width : 1150px;
+ color: white;
+ padding: 15px;
+ margin: auto;
+}
+ div .container .headerright
+{
+    float: right;
+}
+div .container .headerleft
+{
+    float: left;
+}
+menu .container
+{
+    width: 1150px;
+    padding: 20px;
+}
